@@ -166,7 +166,7 @@ socials:
   social1: E-Mail || mailto:archkernel@outlook.com || fa fa-envelope
   # social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
   #Google: https://plus.google.com/yourname || fab fa-google
-  Twitter: https://x.com/jefferson__H || fab fa-twitter
+  social2: Twitter || https://x.com/jefferson__H || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
